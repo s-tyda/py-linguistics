@@ -241,7 +241,7 @@ class LanguageDetector:
         return next(iter(self.scores))
 
     def run_tests(self) -> None:
-        for filename in os.listdir("test"):
+        for filename in os.listdir("../test"):
             with open(f"test/{filename}", encoding='utf-8') as file:
                 data = file.read()
                 prediction = self.detect_language(data)
