@@ -71,14 +71,14 @@ Niestety nie zachowały się dokładne odpowiedzi, podrzucam słowa kluczowe.
 
 #### Dopasuj nazwę rodzaju pisma do definicji.
 
-| Pytanie                                                                                                                                         | Odpowiedź            |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
-| Posczególne znaki oddają całe pojęcia (w sposób symboliczny)                                                                                    | pismo ideograficzne  |
-| Posczególne znaki oddają całe pojęcia (w sposób rysunkowy)                                                                                      | pismo piktograficzne |
-| Zapisywane są tylko spółgłoski                                                                                                                  | abdżad               |
-| Poszczególne znaki odpowiadają (przynajmniej w przybliżeniu) głoskom języka mówionego                                                           | alfabet              |
-| Pojedynczym znakiem zapisywana jest cała sylaba                                                                                                 | sylabariusz          |
-| Pojedynczym znakiem zapisywana jest cała sylaba, ale znaki mające wspólne cechy graficzne mają też wspólną część sylaby (spółgłoskę/samogłoskę) | abugida              |
+| Pytanie                                                                                                                                          | Odpowiedź            |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
+| Posczególne znaki oddają całe pojęcia (w sposób symboliczny).                                                                                    | pismo ideograficzne  |
+| Posczególne znaki oddają całe pojęcia (w sposób rysunkowy).                                                                                      | pismo piktograficzne |
+| Zapisywane są tylko spółgłoski.                                                                                                                  | abdżad               |
+| Poszczególne znaki odpowiadają (przynajmniej w przybliżeniu) głoskom języka mówionego.                                                           | alfabet              |
+| Pojedynczym znakiem zapisywana jest cała sylaba.                                                                                                 | sylabariusz          |
+| Pojedynczym znakiem zapisywana jest cała sylaba, ale znaki mające wspólne cechy graficzne mają też wspólną część sylaby (spółgłoskę/samogłoskę). | abugida              |
 
 ### W05
 
